@@ -1,0 +1,6 @@
+@use './var' as *;
+
+body {
+  background-color: $bg-color;
+  color: $fcolor;
+}
